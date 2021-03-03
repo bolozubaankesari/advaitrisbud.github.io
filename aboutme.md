@@ -1,16 +1,3 @@
----
-layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
----
+Hello! My name is Advait Risbud(I know it sounds like a fake name but it's not) and I am a first year undergraduate student at IIT Bombay in the Department of Metallurgical Engineering and Materials Science. I enjoy Physics, Comedy, and Music in no particular order. 
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Welcome to my website. Here I will post some stuff about the courses I am taking along with a mix veg tandoori kebab platter of stupidity.
