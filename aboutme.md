@@ -1,3 +1,2 @@
-Hello! My name is Advait Risbud(I know it sounds like a fake name but it's not) and I am a first year undergraduate student at IIT Bombay in the Department of Metallurgical Engineering and Materials Science. I enjoy Physics, Comedy, and Music in no particular order. 
+Hey there! Welcome to my website. My name is Advait Risbud and I am an undergraduate in the Department of Metallurgical Engineering and Materials Science at IIT Bombay. I enjoy Physics, Math and jokes...I love jokes. On my website you can find information about courses I have taken, notes, projects, and some assorted nonsense. 
 
-Welcome to my website. Here I will post some stuff about the courses I am taking along with a mix veg tandoori kebab platter of stupidity.
