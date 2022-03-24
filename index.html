@@ -1,5 +1,38 @@
----
-layout: home
-title: My website
-subtitle: This is where I will tell my friends way too much about me
----
+<!DOCTYPE html>
+<html>
+	<head>
+		<!--<link href="images/logo.jfif" rel="icon">--> 
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta charset="utf-8">
+		<title>Advait Risbud's Website</title>
+		<script
+			id="sap-ui-bootstrap"
+			src="/resources/sap-ui-core.js"
+			data-sap-ui-theme="sap_bluecrystal"
+			data-sap-ui-modules="sap.m.library"
+			data-sap-ui-compatVersion="edge"
+			data-sap-ui-preload="async" >
+		</script>
+		<script>
+			sap.ui.getCore().attachInit(function () {
+				new sap.m.Text({
+					text : "OpenUI5 is loaded successfully!"
+				}).placeAt("content");
+			});
+		</script>
+		<link rel="stylesheet" href="test.css">
+	</head>
+	<body class="sapUiBody" id="content">
+		<img src="std_photo (2).jpeg" alt="God's last mistake"  
+		width="150" 
+		height="200">
+	   
+		<h1> Welcome to my website! </h1>
+		
+		<p>
+		  My name is Advait Risbud and I am a sophomore in the <a href="https://www.iitb.ac.in/mems/en">Dept. of Metallurigcal Engineering 
+		  and Materials Science at IIT Bombay</a>. Here you can find information about the <a href="courses.html">courses</a> I have taken, projects I am doing and some poorly sorted humour of an even poorer quality. Please note that this website is a work in progress so you might find changes from time to time. 
+		</p>
+	  
+	</body>
+</html>
