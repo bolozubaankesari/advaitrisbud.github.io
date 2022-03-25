@@ -23,3 +23,11 @@ p {
     color: rgb(255, 255, 255);
     margin: 25px 100px 75px 150px;
 }
+
+a {
+    color: aquamarine;
+}
+
+a:visited {
+    color: aquamarine;
+}
